@@ -10,7 +10,7 @@
 
 
 ### :blue_book: Learning: 
-- Currently learning: ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- Currently learning: React
 - Knows Somewhat: Python, C, C++
 - Want to Learn: nodeJS, expressJS, typescript, mongoDB
 
