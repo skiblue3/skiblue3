@@ -10,8 +10,9 @@
 
 
 ### :blue_book: Learning: 
-- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- Currently learning: ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - Knows Somewhat: Python, C, C++
+- Want to Learn: nodeJS, expressJS, typescript, mongoDB
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -38,7 +39,7 @@
 
 ##  🤝🏻 &nbsp;Connect with Me
 
-<p>Mail: myzticblue126@gmail.com</p>
+<p>mail: myzticblue126@gmail.com</p>
 
 
 <!--
