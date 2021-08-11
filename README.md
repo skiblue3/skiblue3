@@ -27,15 +27,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-## Latest Articles
-<!-- BLOG-POST-LIST:START -->
-- [Making a Mini Wiki with the SpaceX Api and Next.js](https://dev.to/cdthomp1/making-a-mini-wiki-with-the-spacex-api-and-next-js-21p6)
-- [Arduino Zoom Box](https://dev.to/cdthomp1/arduino-zoom-box-394b)
-- [Day 2/100](https://dev.to/cdthomp1/day-2-100-4aeh)
-- [Day 1/100](https://dev.to/cdthomp1/day-1-100-1pb9)
-- [100 Days of Code (Next.js)](https://dev.to/cdthomp1/100-days-of-code-next-js-16nl)
-<!-- BLOG-POST-LIST:END -->
-
 ## My Stats
 <p>
 <a href="https://github.com/AVS1508">
