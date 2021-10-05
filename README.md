@@ -10,9 +10,9 @@
 
 
 ### :blue_book: Learning: 
-- Currently learning: React
-- Knows Somewhat: Python, C, C++
-- Want to Learn: nodeJS, expressJS, typescript, mongoDB
+- Currently learning: React, ExpressJS, MongoDB
+- Knows Somewhat: Python, C, C++, Javascript
+- Want to Learn: typescript
 
 ### 🛠 &nbsp;Tech Stack
 
